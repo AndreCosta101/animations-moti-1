@@ -1,5 +1,9 @@
 ![App Screenshot](.github/cover.png)
 
+# Vídeo link:
+https://youtu.be/uK_FuYU65zM
+Criando animações com propósito no React Native - Decode #014
+
 # Flash.Cards
 App to help memorize. This application was created for the purpose of studies.
 
